@@ -1,0 +1,12 @@
+12.0
+10
+1       SQLINT              0       4       ""   1     assignment_set_did                                 ""
+2       SQLINT              0       4       ""   2     site_id                                            ""
+3       SQLINT              0       4       ""   3     object_type_enum                                   ""
+4       SQLINT              0       4       ""   4     assignment_type_bitmask                            ""
+5       SQLNCHAR            2       170     ""   5     insert_by                                          Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     insert_date                                        ""
+7       SQLNCHAR            2       170     ""   7     update_by                                          Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     update_date                                        ""
+9       SQLBIT              1       1       ""   9     record_status                                      ""
+10      SQLBINARY           2       8       ""   10    onyx_timestamp                                     ""

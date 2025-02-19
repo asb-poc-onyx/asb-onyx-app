@@ -1,0 +1,12 @@
+12.0
+10
+1       SQLINT              0       4       ""   1     EndPointPropertyId                       ""
+2       SQLINT              0       4       ""   2     SiteId                                   ""
+3       SQLINT              0       4       ""   3     EndPointId                               ""
+4       SQLINT              0       4       ""   4     PropertyNameId                           ""
+5       SQLNCHAR            8       0       ""   5     PropertyValue                            Latin1_General_CI_AS
+6       SQLNCHAR            2       170     ""   6     UpdateBy                                 Latin1_General_CI_AS
+7       SQLDATETIME         0       8       ""   7     UpdateDate                               ""
+8       SQLNCHAR            2       170     ""   8     InsertBy                                 Latin1_General_CI_AS
+9       SQLDATETIME         0       8       ""   9     InsertDate                               ""
+10      SQLBIT              1       1       ""   10    RecordStatus                             ""

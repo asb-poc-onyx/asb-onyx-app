@@ -1,0 +1,23 @@
+12.0
+21
+1       SQLINT              0       4       ""   1     method_call_detail_did                           ""
+2       SQLINT              0       4       ""   2     site_id                                          ""
+3       SQLINT              0       4       ""   3     method_call_did                                  ""
+4       SQLINT              0       4       ""   4     sequence_number                                  ""
+5       SQLNCHAR            2       100     ""   5     internal_name                                    Latin1_General_CI_AS
+6       SQLNCHAR            2       20      ""   6     direction                                        Latin1_General_CI_AS
+7       SQLNCHAR            2       100     ""   7     type                                             Latin1_General_CI_AS
+8       SQLNCHAR            2       2000    ""   8     element_path                                     Latin1_General_CI_AS
+9       SQLNCHAR            2       510     ""   9     attribute_list                                   Latin1_General_CI_AS
+10      SQLNCHAR            2       2000    ""   10    id_path                                          Latin1_General_CI_AS
+11      SQLNCHAR            2       2000    ""   11    desc_path                                        Latin1_General_CI_AS
+12      SQLBIT              1       1       ""   12    required                                         ""
+13      SQLBIT              1       1       ""   13    has_default                                      ""
+14      SQLNCHAR            2       510     ""   14    default_value                                    Latin1_General_CI_AS
+15      SQLBIT              1       1       ""   15    hidden                                           ""
+16      SQLNCHAR            2       170     ""   16    insert_by                                        Latin1_General_CI_AS
+17      SQLDATETIME         0       8       ""   17    insert_date                                      ""
+18      SQLNCHAR            2       170     ""   18    update_by                                        Latin1_General_CI_AS
+19      SQLDATETIME         0       8       ""   19    update_date                                      ""
+20      SQLBINARY           2       8       ""   20    onyx_timestamp                                   ""
+21      SQLBIT              1       1       ""   21    record_status                                    ""

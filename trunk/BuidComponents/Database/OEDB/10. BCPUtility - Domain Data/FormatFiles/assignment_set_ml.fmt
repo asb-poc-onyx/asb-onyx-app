@@ -1,0 +1,8 @@
+12.0
+6
+1       SQLINT              0       4       ""   1     assignment_set_did                         ""
+2       SQLINT              0       4       ""   2     site_id                                    ""
+3       SQLNCHAR            2       8       ""   3     language_code                              Latin1_General_CI_AS
+4       SQLNCHAR            2       100     ""   4     assignment_set_name                        Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     assignment_set_desc                        Latin1_General_CI_AS
+6       SQLBINARY           2       8       ""   6     onyx_timestamp                             ""

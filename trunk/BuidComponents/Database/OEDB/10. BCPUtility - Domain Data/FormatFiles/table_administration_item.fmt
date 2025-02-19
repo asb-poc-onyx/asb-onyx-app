@@ -1,0 +1,14 @@
+12.0
+12
+1       SQLINT              0       4       ""   1     table_administration_item_did                                  ""
+2       SQLINT              0       4       ""   2     site_id                                                        ""
+3       SQLNCHAR            2       510     ""   3     object_name                                                    Latin1_General_CI_AS
+4       SQLNCHAR            2       510     ""   4     filter_object_name                                             Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     filter_key_property_name                                       Latin1_General_CI_AS
+6       SQLNCHAR            2       510     ""   6     filter_desc_property_name                                      Latin1_General_CI_AS
+7       SQLNCHAR            2       510     ""   7     filtered_object_property_name                                  Latin1_General_CI_AS
+8       SQLNCHAR            2       170     ""   8     insert_by                                                      Latin1_General_CI_AS
+9       SQLDATETIME         0       8       ""   9     insert_date                                                    ""
+10      SQLNCHAR            2       170     ""   10    update_by                                                      Latin1_General_CI_AS
+11      SQLDATETIME         0       8       ""   11    update_date                                                    ""
+12      SQLBINARY           2       8       ""   12    onyx_timestamp                                                 ""

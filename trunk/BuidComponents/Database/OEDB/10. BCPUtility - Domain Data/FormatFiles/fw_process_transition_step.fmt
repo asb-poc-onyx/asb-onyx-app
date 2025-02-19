@@ -1,0 +1,15 @@
+12.0
+13
+1       SQLINT              0       4       ""   1     primary_did                      ""
+2       SQLINT              0       4       ""   2     site_id                          ""
+3       SQLINT              0       4       ""   3     owner_did                        ""
+4       SQLINT              0       4       ""   4     step_defn_did                    ""
+5       SQLBIT              1       1       ""   5     optional                         ""
+6       SQLNCHAR            2       2048    ""   6     test_condition                   Latin1_General_CI_AS
+7       SQLBIT              1       1       ""   7     is_input                         ""
+8       SQLNCHAR            2       170     ""   8     insert_by                        Latin1_General_CI_AS
+9       SQLDATETIME         0       8       ""   9     insert_date                      ""
+10      SQLNCHAR            2       170     ""   10    update_by                        Latin1_General_CI_AS
+11      SQLDATETIME         0       8       ""   11    update_date                      ""
+12      SQLBINARY           2       8       ""   12    onyx_timestamp                   ""
+13      SQLBIT              1       1       ""   13    record_status                    ""

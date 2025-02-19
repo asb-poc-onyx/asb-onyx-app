@@ -1,0 +1,31 @@
+12.0
+29
+1       SQLINT              0       4       ""   1     field_id                                                   ""
+2       SQLINT              0       4       ""   2     site_id                                                    ""
+3       SQLINT              0       4       ""   3     entity_id                                                  ""
+4       SQLNCHAR            2       100     ""   4     field_name                                                 Latin1_General_CI_AS
+5       SQLINT              0       4       ""   5     position                                                   ""
+6       SQLNCHAR            2       100     ""   6     type                                                       Latin1_General_CI_AS
+7       SQLNCHAR            2       100     ""   7     parent                                                     Latin1_General_CI_AS
+8       SQLINT              1       4       ""   8     sequence_index                                             ""
+9       SQLNCHAR            2       100     ""   9     control_type                                               Latin1_General_CI_AS
+10      SQLNCHAR            2       100     ""   10    mask_format                                                Latin1_General_CI_AS
+11      SQLBIT              1       1       ""   11    is_editable                                                ""
+12      SQLINT              1       4       ""   12    width                                                      ""
+13      SQLBIT              1       1       ""   13    is_sorted                                                  ""
+14      SQLTINYINT          1       1       ""   14    sort_order                                                 ""
+15      SQLBIT              1       1       ""   15    is_transaction                                             ""
+16      SQLNCHAR            2       100     ""   16    linked_property                                            Latin1_General_CI_AS
+17      SQLTINYINT          1       1       ""   17    use_type                                                   ""
+18      SQLTINYINT          1       1       ""   18    field_state                                                ""
+19      SQLBIT              1       1       ""   19    is_batch_update                                            ""
+20      SQLNCHAR            2       170     ""   20    ResourceName                                               Latin1_General_CI_AS
+21      SQLNCHAR            2       1000    ""   21    CacheName                                                  Latin1_General_CI_AS
+22      SQLINT              1       4       ""   22    CacheParentId                                              ""
+23      SQLBIT              1       1       ""   23    IsReadOnly                                                 ""
+24      SQLBIT              1       1       ""   24    delete_status                                              ""
+25      SQLNCHAR            2       200     ""   25    primary_linked_field_name                                  Latin1_General_CI_AS
+26      SQLNCHAR            2       200     ""   26    secondary_linked_field_name                                Latin1_General_CI_AS
+27      SQLINT              1       4       ""   27    batch_sequence_index                                       ""
+28      SQLBIT              1       1       ""   28    Is_exists_condition                                        ""
+29      SQLBIT              1       1       ""   29    IsRequired                                                 ""

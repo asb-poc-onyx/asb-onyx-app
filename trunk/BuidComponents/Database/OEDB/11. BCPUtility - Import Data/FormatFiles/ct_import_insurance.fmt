@@ -1,0 +1,19 @@
+12.0
+17
+1       SQLINT              0       4       ""   1     member_number                                        ""
+2       SQLCHAR             2       20      ""   2     policy_number                                        Latin1_General_CI_AS
+3       SQLCHAR             2       50      ""   3     risk_type                                            Latin1_General_CI_AS
+4       SQLCHAR             2       50      ""   4     cover_type                                           Latin1_General_CI_AS
+5       SQLCHAR             2       240     ""   5     risk_details                                         Latin1_General_CI_AS
+6       SQLNUMERIC          1       19      ""   6     premium                                              ""
+7       SQLCHAR             2       50      ""   7     frequency                                            Latin1_General_CI_AS
+8       SQLDATETIME         1       8       ""   8     period_start                                         ""
+9       SQLDATETIME         1       8       ""   9     period_end                                           ""
+10      SQLDECIMAL          1       19      ""   10    annual_premium                                       ""
+11      SQLCHAR             2       6       ""   11    status                                               Latin1_General_CI_AS
+12      SQLCHAR             2       64      ""   12    cvp                                                  Latin1_General_CI_AS
+13      SQLCHAR             2       13      ""   13    category                                             Latin1_General_CI_AS
+14      SQLCHAR             2       20      ""   14    insurer                                              Latin1_General_CI_AS
+15      SQLCHAR             0       1       ""   15    is_primary                                           Latin1_General_CI_AS
+16      SQLDATETIM4         0       4       ""   16    original_start_date                                  ""
+17      SQLDATE             1       3       ""   17    latest_new_business_date                             ""

@@ -1,0 +1,13 @@
+12.0
+11
+1       SQLINT              0       4       ""   1     assignment_condition_did                             ""
+2       SQLINT              0       4       ""   2     site_id                                              ""
+3       SQLINT              0       4       ""   3     assignment_territory_did                             ""
+4       SQLINT              0       4       ""   4     sequence_number                                      ""
+5       SQLINT              0       4       ""   5     object_type_enum                                     ""
+6       SQLNCHAR            2       170     ""   6     insert_by                                            Latin1_General_CI_AS
+7       SQLDATETIME         0       8       ""   7     insert_date                                          ""
+8       SQLNCHAR            2       170     ""   8     update_by                                            Latin1_General_CI_AS
+9       SQLDATETIME         0       8       ""   9     update_date                                          ""
+10      SQLBIT              1       1       ""   10    record_status                                        ""
+11      SQLBINARY           2       8       ""   11    onyx_timestamp                                       ""

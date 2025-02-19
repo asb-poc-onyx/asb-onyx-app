@@ -1,0 +1,12 @@
+12.0
+10
+1       SQLINT              0       4       ""   1     LboObjectId                      ""
+2       SQLINT              0       4       ""   2     SiteId                           ""
+3       SQLNCHAR            2       170     ""   3     ObjectName                       Latin1_General_CI_AS
+4       SQLNCHAR            2       200     ""   4     MethodName                       Latin1_General_CI_AS
+5       SQLNCHAR            2       170     ""   5     InsertBy                         Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     InsertDate                       ""
+7       SQLNCHAR            2       170     ""   7     UpdateBy                         Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     UpdateDate                       ""
+9       SQLBIT              1       1       ""   9     RecordStatus                     ""
+10      SQLNCHAR            2       170     ""   10    ObjectNodeName                   Latin1_General_CI_AS

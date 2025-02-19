@@ -1,0 +1,33 @@
+12.0
+31
+1       SQLINT              0       4       ""   1     primary_did                                                        ""
+2       SQLINT              0       4       ""   2     site_id                                                            ""
+3       SQLINT              0       4       ""   3     account_number                                                     ""
+4       SQLNCHAR            2       510     ""   4     account_status                                                     Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     mutual_aid_status                                                  Latin1_General_CI_AS
+6       SQLDATETIME         1       8       ""   6     funded_date                                                        ""
+7       SQLDATETIME         1       8       ""   7     maturity_date                                                      ""
+8       SQLDATETIME         1       8       ""   8     closed_date                                                        ""
+9       SQLDECIMAL          1       19      ""   9     original_fee_amount                                                ""
+10      SQLNCHAR            2       100     ""   10    expected_action                                                    Latin1_General_CI_AS
+11      SQLNCHAR            2       510     ""   11    expected_message                                                   Latin1_General_CI_AS
+12      SQLINT              1       4       ""   12    current_rebate_status_did                                          ""
+13      SQLINT              1       4       ""   13    expected_rebate_status_did                                         ""
+14      SQLBIT              1       1       ""   14    calculate_rebate_amount                                            ""
+15      SQLBIT              1       1       ""   15    calculate_rebate_expiry                                            ""
+16      SQLINT              1       4       ""   16    rebate_schedule_did                                                ""
+17      SQLINT              1       4       ""   17    rebate_schedule_detail_did                                         ""
+18      SQLDECIMAL          1       19      ""   18    rebate_amount                                                      ""
+19      SQLINT              1       4       ""   19    next_rebate_schedule_detail_did                                    ""
+20      SQLDECIMAL          1       19      ""   20    next_rebate_tier_amount                                            ""
+21      SQLDATETIME         1       8       ""   21    next_rebate_tier_date                                              ""
+22      SQLINT              1       4       ""   22    calc_rebate_status_did                                             ""
+23      SQLINT              1       4       ""   23    final_rebate_status_did                                            ""
+24      SQLNCHAR            2       170     ""   24    insert_by                                                          Latin1_General_CI_AS
+25      SQLDATETIME         0       8       ""   25    insert_date                                                        ""
+26      SQLNCHAR            2       170     ""   26    update_by                                                          Latin1_General_CI_AS
+27      SQLDATETIME         0       8       ""   27    update_date                                                        ""
+28      SQLBINARY           2       8       ""   28    onyx_timestamp                                                     ""
+29      SQLBIT              1       1       ""   29    record_status                                                      ""
+30      SQLDATETIME         0       8       ""   30    transaction_date                                                   ""
+31      SQLBIT              1       1       ""   31    final_calculate_rebate_expiry                                      ""

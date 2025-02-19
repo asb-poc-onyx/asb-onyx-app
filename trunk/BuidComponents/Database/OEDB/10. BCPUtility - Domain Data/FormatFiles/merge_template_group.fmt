@@ -1,0 +1,11 @@
+12.0
+9
+1       SQLINT              0       4       ""   1     merge_template_group_did                                       ""
+2       SQLINT              0       4       ""   2     site_id                                                        ""
+3       SQLINT              1       4       ""   3     prnt_merge_template_group_did                                  ""
+4       SQLNCHAR            2       170     ""   4     insert_by                                                      Latin1_General_CI_AS
+5       SQLDATETIME         0       8       ""   5     insert_date                                                    ""
+6       SQLNCHAR            2       170     ""   6     update_by                                                      Latin1_General_CI_AS
+7       SQLDATETIME         0       8       ""   7     update_date                                                    ""
+8       SQLBINARY           2       8       ""   8     onyx_timestamp                                                 ""
+9       SQLBIT              1       1       ""   9     record_status                                                  ""

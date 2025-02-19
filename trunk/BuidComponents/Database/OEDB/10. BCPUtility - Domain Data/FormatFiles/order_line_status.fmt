@@ -1,0 +1,10 @@
+12.0
+8
+1       SQLTINYINT          0       1       ""   1     order_line_status_code                           ""
+2       SQLINT              0       4       ""   2     site_id                                          ""
+3       SQLNCHAR            2       170     ""   3     insert_by                                        Latin1_General_CI_AS
+4       SQLDATETIME         0       8       ""   4     insert_date                                      ""
+5       SQLNCHAR            2       170     ""   5     update_by                                        Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     update_date                                      ""
+7       SQLBINARY           2       8       ""   7     onyx_timestamp                                   ""
+8       SQLBIT              1       1       ""   8     record_status                                    ""

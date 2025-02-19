@@ -1,0 +1,17 @@
+12.0
+15
+1       SQLINT              0       4       ""   1     fee_id                                           ""
+2       SQLINT              0       4       ""   2     site_id                                          ""
+3       SQLNCHAR            2       400     ""   3     fee_description                                  Latin1_General_CI_AS
+4       SQLNCHAR            2       400     ""   4     fee_narrative                                    Latin1_General_CI_AS
+5       SQLDECIMAL          1       19      ""   5     fee_amount                                       ""
+6       SQLNCHAR            2       8       ""   6     currency_code                                    Latin1_General_CI_AS
+7       SQLNCHAR            2       60      ""   7     dest_account_id                                  Latin1_General_CI_AS
+8       SQLNCHAR            2       8       ""   8     dest_account_type_code                           Latin1_General_CI_AS
+9       SQLNCHAR            2       170     ""   9     insert_by                                        Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    insert_date                                      ""
+11      SQLNCHAR            2       170     ""   11    update_by                                        Latin1_General_CI_AS
+12      SQLDATETIME         0       8       ""   12    update_date                                      ""
+13      SQLBINARY           2       8       ""   13    onyx_timestamp                                   ""
+14      SQLBIT              1       1       ""   14    record_status                                    ""
+15      SQLINT              0       4       ""   15    category_did                                     ""

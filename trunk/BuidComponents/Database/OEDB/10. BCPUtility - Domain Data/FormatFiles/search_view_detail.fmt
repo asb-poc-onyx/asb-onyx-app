@@ -1,0 +1,32 @@
+12.0
+30
+1       SQLINT              0       4       ""   1     search_view_detail_did                                           ""
+2       SQLINT              0       4       ""   2     site_id                                                          ""
+3       SQLINT              0       4       ""   3     search_view_did                                                  ""
+4       SQLINT              0       4       ""   4     search_table_did                                                 ""
+5       SQLINT              0       4       ""   5     nested_level                                                     ""
+6       SQLINT              0       4       ""   6     sequence_number                                                  ""
+7       SQLNCHAR            2       20      ""   7     node_type                                                        Latin1_General_CI_AS
+8       SQLNCHAR            2       170     ""   8     field_name                                                       Latin1_General_CI_AS
+9       SQLNCHAR            2       20      ""   9     field_type                                                       Latin1_General_CI_AS
+10      SQLNCHAR            2       510     ""   10    join_condition                                                   Latin1_General_CI_AS
+11      SQLNCHAR            2       510     ""   11    search_condition_function_call                                   Latin1_General_CI_AS
+12      SQLNCHAR            2       510     ""   12    user_input_function_call                                         Latin1_General_CI_AS
+13      SQLBIT              1       1       ""   13    search_allowed                                                   ""
+14      SQLBIT              1       1       ""   14    indexed                                                          ""
+15      SQLBIT              1       1       ""   15    result_allowed                                                   ""
+16      SQLBIT              1       1       ""   16    result_visible                                                   ""
+17      SQLNCHAR            2       510     ""   17    result_function_call                                             Latin1_General_CI_AS
+18      SQLNCHAR            2       120     ""   18    result_type                                                      Latin1_General_CI_AS
+19      SQLNCHAR            2       510     ""   19    enumeration_object                                               Latin1_General_CI_AS
+20      SQLNCHAR            2       510     ""   20    enumeration_method                                               Latin1_General_CI_AS
+21      SQLNCHAR            2       2000    ""   21    enumeration_parameters_xml                                       Latin1_General_CI_AS
+22      SQLNCHAR            2       2000    ""   22    enumeration_item_path                                            Latin1_General_CI_AS
+23      SQLNCHAR            2       2000    ""   23    enumeration_id_path                                              Latin1_General_CI_AS
+24      SQLNCHAR            2       2000    ""   24    enumeration_desc_path                                            Latin1_General_CI_AS
+25      SQLNCHAR            2       170     ""   25    insert_by                                                        Latin1_General_CI_AS
+26      SQLDATETIME         0       8       ""   26    insert_date                                                      ""
+27      SQLNCHAR            2       170     ""   27    update_by                                                        Latin1_General_CI_AS
+28      SQLDATETIME         0       8       ""   28    update_date                                                      ""
+29      SQLBINARY           2       8       ""   29    onyx_timestamp                                                   ""
+30      SQLBIT              1       1       ""   30    record_status                                                    ""

@@ -1,0 +1,7 @@
+12.0
+5
+1       SQLINT              0       4       ""   1     property_id                    ""
+2       SQLNCHAR            2       100     ""   2     property_name                  Latin1_General_CI_AS
+3       SQLBIT              1       1       ""   3     is_editable                    ""
+4       SQLINT              0       4       ""   4     use_type                       ""
+5       SQLNCHAR            2       100     ""   5     control_type                   Latin1_General_CI_AS

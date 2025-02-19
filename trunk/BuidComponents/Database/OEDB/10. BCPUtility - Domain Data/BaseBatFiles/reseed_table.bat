@@ -1,0 +1,7 @@
+@echo off
+
+echo Reseeding Table: %3
+
+rem call BaseBatFiles\execute_query.bat -S%1 -d%2 -U%3 -P%4 "DECLARE @NEXT_ID INT SELECT @NEXT_ID = ISNULL(MAX(SECONDARY_ID),1) FROM %6 DBCC CHECKIDENT ('%5', RESEED, @NEXT_ID)"
+sqlcmd -S%1 -d%2 -U%3 -P%4 -Q "DECLARE @NEXT_ID INT SELECT @NEXT_ID = ISNULL(MAX(SECONDARY_ID),1) FROM %6 DBCC CHECKIDENT ('%5', RESEED, @NEXT_ID)"
+

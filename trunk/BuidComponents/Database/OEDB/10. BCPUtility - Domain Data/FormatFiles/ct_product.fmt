@@ -1,0 +1,35 @@
+12.0
+33
+1       SQLINT              0       4       ""   1     product_code                                 ""
+2       SQLNCHAR            2       8       ""   2     product_type_code                            Latin1_General_CI_AS
+3       SQLINT              0       4       ""   3     site_id                                      ""
+4       SQLNCHAR            2       510     ""   4     name                                         Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     url                                          Latin1_General_CI_AS
+6       SQLINT              1       4       ""   6     min_age                                      ""
+7       SQLINT              1       4       ""   7     max_age                                      ""
+8       SQLBIT              1       1       ""   8     is_current                                   ""
+9       SQLINT              0       4       ""   9     customer_type_enum                           ""
+10      SQLNCHAR            2       170     ""   10    insert_by                                    Latin1_General_CI_AS
+11      SQLDATETIME         0       8       ""   11    insert_date                                  ""
+12      SQLNCHAR            2       170     ""   12    update_by                                    Latin1_General_CI_AS
+13      SQLDATETIME         0       8       ""   13    update_date                                  ""
+14      SQLBINARY           2       8       ""   14    onyx_timestamp                               ""
+15      SQLBIT              1       1       ""   15    record_status                                ""
+16      SQLINT              1       4       ""   16    open_amount_min                              ""
+17      SQLINT              1       4       ""   17    open_amount_max                              ""
+18      SQLINT              1       4       ""   18    min_renewal_days                             ""
+19      SQLINT              1       4       ""   19    min_renewal_months                           ""
+20      SQLNCHAR            2       170     ""   20    resource_id_open                             Latin1_General_CI_AS
+21      SQLBIT              1       1       ""   21    is_two_to_sign                               ""
+22      SQLINT              0       4       ""   22    sequence                                     ""
+23      SQLINT              0       4       ""   23    is_fee_waiver                                ""
+24      SQLINT              1       4       ""   24    product_id                                   ""
+25      SQLINT              1       4       ""   25    max_renewal_days                             ""
+26      SQLINT              1       4       ""   26    max_renewal_months                           ""
+27      SQLBIT              1       1       ""   27    is_treasury                                  ""
+28      SQLINT              1       4       ""   28    account_type_did                             ""
+29      SQLNCHAR            2       20      ""   29    product_category                             Latin1_General_CI_AS
+30      SQLBIT              1       1       ""   30    is_e_statement                               ""
+31      SQLNCHAR            2       100     ""   31    short_name                                   Latin1_General_CI_AS
+32      SQLINT              1       4       ""   32    product_group_id                             ""
+33      SQLINT              0       4       ""   33    cm_product_group_did                         ""

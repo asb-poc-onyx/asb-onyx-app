@@ -1,0 +1,10 @@
+12.0
+8
+1       SQLNCHAR            2       170     ""   1     profile_code                     Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                          ""
+3       SQLNCHAR            2       170     ""   3     insert_by                        Latin1_General_CI_AS
+4       SQLDATETIME         0       8       ""   4     insert_date                      ""
+5       SQLNCHAR            2       170     ""   5     update_by                        Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     update_date                      ""
+7       SQLBIT              1       1       ""   7     record_status                    ""
+8       SQLBINARY           2       8       ""   8     onyx_timestamp                   ""

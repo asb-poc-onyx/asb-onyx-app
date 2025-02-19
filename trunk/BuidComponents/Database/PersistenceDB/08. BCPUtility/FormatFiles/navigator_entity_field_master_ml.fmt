@@ -1,0 +1,6 @@
+12.0
+4
+1       SQLINT              0       4       ""   1     field_id                       ""
+2       SQLNCHAR            2       8       ""   2     language_code                  Latin1_General_CI_AS
+3       SQLINT              0       4       ""   3     site_id                        ""
+4       SQLNCHAR            2       100     ""   4     display_name                   Latin1_General_CI_AS

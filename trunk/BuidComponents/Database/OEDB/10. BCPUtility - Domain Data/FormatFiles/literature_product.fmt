@@ -1,0 +1,17 @@
+12.0
+15
+1       SQLNCHAR            2       40      ""   1     literature_product_code                                          Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                                                          ""
+3       SQLINT              1       4       ""   3     literature_service_printer_did                                   ""
+4       SQLNCHAR            2       40      ""   4     label_product_code                                               Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     file_path_spec                                                   Latin1_General_CI_AS
+6       SQLBIT              1       1       ""   6     allow_as_email_attachment                                        ""
+7       SQLBIT              1       1       ""   7     is_label                                                         ""
+8       SQLINT              1       4       ""   8     external_literature_group_did                                    ""
+9       SQLINT              1       4       ""   9     external_sequence_number                                         ""
+10      SQLNCHAR            2       170     ""   10    insert_by                                                        Latin1_General_CI_AS
+11      SQLDATETIME         0       8       ""   11    insert_date                                                      ""
+12      SQLNCHAR            2       170     ""   12    update_by                                                        Latin1_General_CI_AS
+13      SQLDATETIME         0       8       ""   13    update_date                                                      ""
+14      SQLBINARY           2       8       ""   14    onyx_timestamp                                                   ""
+15      SQLBIT              1       1       ""   15    record_status                                                    ""

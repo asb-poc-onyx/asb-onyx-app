@@ -1,0 +1,11 @@
+12.0
+9
+1       SQLNCHAR            2       170     ""   1     role_name                          Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                            ""
+3       SQLNCHAR            2       170     ""   3     resource_name                      Latin1_General_CI_AS
+4       SQLTINYINT          0       1       ""   4     permission_type                    ""
+5       SQLNCHAR            2       170     ""   5     insert_by                          Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     insert_date                        ""
+7       SQLNCHAR            2       170     ""   7     update_by                          Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     update_date                        ""
+9       SQLBINARY           2       8       ""   9     onyx_timestamp                     ""

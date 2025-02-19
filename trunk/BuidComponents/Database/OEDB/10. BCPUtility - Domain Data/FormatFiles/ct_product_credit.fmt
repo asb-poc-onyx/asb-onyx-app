@@ -1,0 +1,25 @@
+12.0
+23
+1       SQLINT              0       4       ""   1     product_code                                                                 ""
+2       SQLNCHAR            2       16      ""   2     product_type_code                                                            Latin1_General_CI_AS
+3       SQLINT              0       4       ""   3     site_id                                                                      ""
+4       SQLINT              0       4       ""   4     credit_purpose_group_id                                                      ""
+5       SQLDECIMAL          1       19      ""   5     rate                                                                         ""
+6       SQLINT              0       4       ""   6     max_term_months                                                              ""
+7       SQLINT              0       4       ""   7     min_term_months                                                              ""
+8       SQLFLT8             0       8       ""   8     min_loan_amount                                                              ""
+9       SQLFLT8             0       8       ""   9     max_loan_amount                                                              ""
+10      SQLINT              1       4       ""   10    product_version                                                              ""
+11      SQLINT              1       4       ""   11    max_version                                                                  ""
+12      SQLNCHAR            2       170     ""   12    insert_by                                                                    Latin1_General_CI_AS
+13      SQLDATETIME         0       8       ""   13    insert_date                                                                  ""
+14      SQLNCHAR            2       170     ""   14    update_by                                                                    Latin1_General_CI_AS
+15      SQLDATETIME         0       8       ""   15    update_date                                                                  ""
+16      SQLBINARY           2       8       ""   16    onyx_timestamp                                                               ""
+17      SQLBIT              1       1       ""   17    record_status                                                                ""
+18      SQLINT              1       4       ""   18    rate_type_default_did                                                        ""
+19      SQLBIT              1       1       ""   19    add_to_loan_amount                                                           ""
+20      SQLNCHAR            2       16      ""   20    product_credit_category                                                      Latin1_General_CI_AS
+21      SQLBIT              1       1       ""   21    default_freq_month                                                           ""
+22      SQLNCHAR            2       16      ""   22    product_type_allocation                                                      Latin1_General_CI_AS
+23      SQLINT              1       4       ""   23    repayment_frequency_type_default_did                                         ""

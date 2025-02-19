@@ -1,0 +1,19 @@
+12.0
+17
+1       SQLINT              0       4       ""   1     primary_did                                  ""
+2       SQLINT              0       4       ""   2     site_id                                      ""
+3       SQLNCHAR            2       510     ""   3     table_name                                   Latin1_General_CI_AS
+4       SQLNCHAR            2       510     ""   4     primary_id_column                            Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     archive_table_name                           Latin1_General_CI_AS
+6       SQLINT              1       4       ""   6     days_in_arrears                              ""
+7       SQLINT              1       4       ""   7     batch_size                                   ""
+8       SQLINT              1       4       ""   8     batch_run_size                               ""
+9       SQLNCHAR            2       4000    ""   9     predicate_sql                                Latin1_General_CI_AS
+10      SQLBIT              1       1       ""   10    delete_only                                  ""
+11      SQLNCHAR            2       170     ""   11    insert_by                                    Latin1_General_CI_AS
+12      SQLDATETIME         0       8       ""   12    insert_date                                  ""
+13      SQLNCHAR            2       170     ""   13    update_by                                    Latin1_General_CI_AS
+14      SQLDATETIME         0       8       ""   14    update_date                                  ""
+15      SQLBINARY           2       8       ""   15    onyx_timestamp                               ""
+16      SQLBIT              1       1       ""   16    record_status                                ""
+17      SQLINT              0       4       ""   17    log_file_max_size_MB                         ""

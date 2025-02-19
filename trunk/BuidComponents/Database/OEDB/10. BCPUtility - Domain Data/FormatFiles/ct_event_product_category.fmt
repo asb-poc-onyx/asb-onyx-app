@@ -1,0 +1,14 @@
+12.0
+12
+1       SQLINT              0       4       ""   1     primary_id                           ""
+2       SQLINT              0       4       ""   2     site_id                              ""
+3       SQLNCHAR            2       170     ""   3     event_type                           Latin1_General_CI_AS
+4       SQLNCHAR            2       170     ""   4     event_key                            Latin1_General_CI_AS
+5       SQLNCHAR            2       170     ""   5     event_value                          Latin1_General_CI_AS
+6       SQLNCHAR            2       170     ""   6     product_category                     Latin1_General_CI_AS
+7       SQLNCHAR            2       170     ""   7     insert_by                            Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     insert_date                          ""
+9       SQLNCHAR            2       170     ""   9     update_by                            Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    update_date                          ""
+11      SQLBINARY           2       8       ""   11    onyx_timestamp                       ""
+12      SQLBIT              1       1       ""   12    record_status                        ""

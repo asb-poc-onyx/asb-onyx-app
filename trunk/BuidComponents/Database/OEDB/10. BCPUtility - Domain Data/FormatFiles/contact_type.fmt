@@ -1,0 +1,15 @@
+12.0
+13
+1       SQLINT              0       4       ""   1     contact_type_did                                       ""
+2       SQLINT              0       4       ""   2     site_id                                                ""
+3       SQLINT              0       4       ""   3     contact_category_did                                   ""
+4       SQLINT              0       4       ""   4     contact_group_type_did                                 ""
+5       SQLINT              0       4       ""   5     contact_type_attributes                                ""
+6       SQLNCHAR            2       170     ""   6     insert_by                                              Latin1_General_CI_AS
+7       SQLDATETIME         0       8       ""   7     insert_date                                            ""
+8       SQLNCHAR            2       170     ""   8     update_by                                              Latin1_General_CI_AS
+9       SQLDATETIME         0       8       ""   9     update_date                                            ""
+10      SQLBINARY           2       8       ""   10    onyx_timestamp                                         ""
+11      SQLBIT              1       1       ""   11    record_status                                          ""
+12      SQLINT              1       4       ""   12    reciprocal_company_did                                 ""
+13      SQLINT              1       4       ""   13    reciprocal_individual_did                              ""

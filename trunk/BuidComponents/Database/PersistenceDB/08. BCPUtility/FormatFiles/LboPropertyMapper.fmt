@@ -1,0 +1,13 @@
+12.0
+11
+1       SQLINT              0       4       ""   1     LboPropertyId                  ""
+2       SQLINT              0       4       ""   2     SiteId                         ""
+3       SQLINT              1       4       ""   3     FieldId                        ""
+4       SQLNCHAR            2       170     ""   4     LboProperty                    Latin1_General_CI_AS
+5       SQLINT              0       4       ""   5     LboObjectId                    ""
+6       SQLNCHAR            2       1000    ""   6     PropertyPath                   Latin1_General_CI_AS
+7       SQLNCHAR            2       170     ""   7     InsertBy                       Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     InsertDate                     ""
+9       SQLNCHAR            2       170     ""   9     UpdateBy                       Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    UpdateDate                     ""
+11      SQLBIT              1       1       ""   11    RecordStatus                   ""

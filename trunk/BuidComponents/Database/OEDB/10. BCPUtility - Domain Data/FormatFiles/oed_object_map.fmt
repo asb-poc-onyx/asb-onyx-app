@@ -1,0 +1,10 @@
+12.0
+8
+1       SQLUNIQUEID         1       16      ""   1     object_id                            ""
+2       SQLINT              0       4       ""   2     object_type_enum                     ""
+3       SQLNCHAR            2       254     ""   3     table_name                           Latin1_General_CI_AS
+4       SQLNCHAR            2       254     ""   4     pk_column_name                       Latin1_General_CI_AS
+5       SQLNCHAR            2       254     ""   5     object_name                          Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     insert_date                          ""
+7       SQLDATETIME         0       8       ""   7     update_date                          ""
+8       SQLBIT              1       1       ""   8     record_status                        ""

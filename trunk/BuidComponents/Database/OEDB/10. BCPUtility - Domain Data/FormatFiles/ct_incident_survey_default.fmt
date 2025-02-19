@@ -1,0 +1,14 @@
+12.0
+12
+1       SQLINT              0       4       ""   1     primary_id                                     ""
+2       SQLINT              0       4       ""   2     site_id                                        ""
+3       SQLINT              0       4       ""   3     incident_category_did                          ""
+4       SQLNCHAR            2       40      ""   4     incident_product_code                          Latin1_General_CI_AS
+5       SQLINT              1       4       ""   5     service_activity_did                           ""
+6       SQLINT              0       4       ""   6     survey_did                                     ""
+7       SQLNCHAR            2       170     ""   7     insert_by                                      Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     insert_date                                    ""
+9       SQLNCHAR            2       170     ""   9     update_by                                      Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    update_date                                    ""
+11      SQLBINARY           2       8       ""   11    onyx_timestamp                                 ""
+12      SQLBIT              1       1       ""   12    record_status                                  ""

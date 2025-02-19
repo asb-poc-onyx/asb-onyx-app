@@ -1,0 +1,19 @@
+12.0
+17
+1       SQLUNIQUEID         1       16      ""   1     merge_template_id                                    ""
+2       SQLINT              0       4       ""   2     site_id                                              ""
+3       SQLINT              0       4       ""   3     secondary_id                                         ""
+4       SQLNCHAR            2       100     ""   4     merge_template_name                                  Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     merge_template_desc                                  Latin1_General_CI_AS
+6       SQLNCHAR            8       0       ""   6     text                                                 Latin1_General_CI_AS
+7       SQLINT              0       4       ""   7     text_format_type_did                                 ""
+8       SQLINT              1       4       ""   8     merge_template_group_did                             ""
+9       SQLBIT              1       1       ""   9     public_template                                      ""
+10      SQLINT              0       4       ""   10    target_object_type_enum                              ""
+11      SQLINT              1       4       ""   11    method_call_did                                      ""
+12      SQLNCHAR            2       170     ""   12    insert_by                                            Latin1_General_CI_AS
+13      SQLDATETIME         0       8       ""   13    insert_date                                          ""
+14      SQLNCHAR            2       170     ""   14    update_by                                            Latin1_General_CI_AS
+15      SQLDATETIME         0       8       ""   15    update_date                                          ""
+16      SQLBINARY           2       8       ""   16    onyx_timestamp                                       ""
+17      SQLTINYINT          0       1       ""   17    delete_status                                        ""

@@ -1,0 +1,18 @@
+12.0
+16
+1       SQLINT              0       4       ""   1     reference_field_did                                      ""
+2       SQLINT              0       4       ""   2     site_id                                                  ""
+3       SQLNCHAR            2       80      ""   3     reference_field_name                                     Latin1_General_CI_AS
+4       SQLINT              0       4       ""   4     reference_did                                            ""
+5       SQLINT              1       4       ""   5     parent_reference_field_did                               ""
+6       SQLINT              0       4       ""   6     seq_num                                                  ""
+7       SQLTINYINT          0       1       ""   7     rank                                                     ""
+8       SQLTINYINT          1       1       ""   8     field_size                                               ""
+9       SQLNCHAR            2       20      ""   9     field_type                                               Latin1_General_CI_AS
+10      SQLNCHAR            2       510     ""   10    field_mask                                               Latin1_General_CI_AS
+11      SQLNCHAR            2       170     ""   11    insert_by                                                Latin1_General_CI_AS
+12      SQLDATETIME         0       8       ""   12    insert_date                                              ""
+13      SQLNCHAR            2       170     ""   13    update_by                                                Latin1_General_CI_AS
+14      SQLDATETIME         0       8       ""   14    update_date                                              ""
+15      SQLBINARY           2       8       ""   15    onyx_timestamp                                           ""
+16      SQLBIT              1       1       ""   16    record_status                                            ""

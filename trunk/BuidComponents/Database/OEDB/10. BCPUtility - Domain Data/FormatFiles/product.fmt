@@ -1,0 +1,35 @@
+12.0
+33
+1       SQLNCHAR            2       40      ""   1     product_code                                         Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                                              ""
+3       SQLINT              1       4       ""   3     product_group_did                                    ""
+4       SQLNCHAR            2       30      ""   4     product_support_type                                 Latin1_General_CI_AS
+5       SQLNCHAR            2       40      ""   5     incident_product_code                                Latin1_General_CI_AS
+6       SQLNCHAR            2       8       ""   6     currency_code                                        Latin1_General_CI_AS
+7       SQLNCHAR            2       40      ""   7     alternate_product_number                             Latin1_General_CI_AS
+8       SQLINT              1       4       ""   8     stock_level                                          ""
+9       SQLDECIMAL          1       19      ""   9     list_price                                           ""
+10      SQLDECIMAL          1       19      ""   10    cost                                                 ""
+11      SQLINT              1       4       ""   11    warranty_calls                                       ""
+12      SQLINT              1       4       ""   12    warranty_days                                        ""
+13      SQLDATETIME         1       8       ""   13    warranty_exp_date                                    ""
+14      SQLBIT              1       1       ""   14    orderable                                            ""
+15      SQLDATETIME         1       8       ""   15    first_ship_date                                      ""
+16      SQLDATETIME         1       8       ""   16    obsolete_date                                        ""
+17      SQLINT              1       4       ""   17    status_did                                           ""
+18      SQLNCHAR            2       510     ""   18    user1                                                Latin1_General_CI_AS
+19      SQLNCHAR            2       510     ""   19    user2                                                Latin1_General_CI_AS
+20      SQLNCHAR            2       510     ""   20    user3                                                Latin1_General_CI_AS
+21      SQLNCHAR            2       510     ""   21    user4                                                Latin1_General_CI_AS
+22      SQLNCHAR            2       510     ""   22    user5                                                Latin1_General_CI_AS
+23      SQLNCHAR            2       510     ""   23    user6                                                Latin1_General_CI_AS
+24      SQLNCHAR            2       510     ""   24    user7                                                Latin1_General_CI_AS
+25      SQLNCHAR            2       510     ""   25    user8                                                Latin1_General_CI_AS
+26      SQLNCHAR            2       510     ""   26    user9                                                Latin1_General_CI_AS
+27      SQLNCHAR            2       510     ""   27    user10                                               Latin1_General_CI_AS
+28      SQLNCHAR            2       170     ""   28    insert_by                                            Latin1_General_CI_AS
+29      SQLDATETIME         0       8       ""   29    insert_date                                          ""
+30      SQLNCHAR            2       170     ""   30    update_by                                            Latin1_General_CI_AS
+31      SQLDATETIME         0       8       ""   31    update_date                                          ""
+32      SQLBINARY           2       8       ""   32    onyx_timestamp                                       ""
+33      SQLBIT              1       1       ""   33    record_status                                        ""

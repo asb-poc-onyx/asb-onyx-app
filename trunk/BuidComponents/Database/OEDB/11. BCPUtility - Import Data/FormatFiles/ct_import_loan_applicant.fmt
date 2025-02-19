@@ -1,0 +1,6 @@
+12.0
+4
+1       SQLNCHAR            2       100     ""   1     loan_application_id                        Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     member_id                                  ""
+3       SQLNCHAR            2       100     ""   3     applicant_type                             Latin1_General_CI_AS
+4       SQLTINYINT          1       1       ""   4     applicant_order                            ""

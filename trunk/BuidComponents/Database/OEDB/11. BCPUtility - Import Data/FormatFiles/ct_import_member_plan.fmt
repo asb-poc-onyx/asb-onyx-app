@@ -1,0 +1,4 @@
+12.0
+2
+1       SQLINT              0       4       ""   1     member_id                  ""
+2       SQLCHAR             2       10      ""   2     member_plan                Latin1_General_CI_AS

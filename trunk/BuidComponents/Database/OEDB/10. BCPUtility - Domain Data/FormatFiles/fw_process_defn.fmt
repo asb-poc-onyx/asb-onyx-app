@@ -1,0 +1,17 @@
+12.0
+15
+1       SQLINT              0       4       ""   1     primary_did                                  ""
+2       SQLINT              0       4       ""   2     site_id                                      ""
+3       SQLINT              0       4       ""   3     group_did                                    ""
+4       SQLINT              0       4       ""   4     form_did                                     ""
+5       SQLBIT              1       1       ""   5     published                                    ""
+6       SQLINT              0       4       ""   6     default_type_did                             ""
+7       SQLINT              0       4       ""   7     default_status_did                           ""
+8       SQLINT              0       4       ""   8     default_priority_did                         ""
+9       SQLNCHAR            2       170     ""   9     insert_by                                    Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    insert_date                                  ""
+11      SQLNCHAR            2       170     ""   11    update_by                                    Latin1_General_CI_AS
+12      SQLDATETIME         0       8       ""   12    update_date                                  ""
+13      SQLBINARY           2       8       ""   13    onyx_timestamp                               ""
+14      SQLBIT              1       1       ""   14    record_status                                ""
+15      SQLNCHAR            2       170     ""   15    resource_id_launch                           Latin1_General_CI_AS

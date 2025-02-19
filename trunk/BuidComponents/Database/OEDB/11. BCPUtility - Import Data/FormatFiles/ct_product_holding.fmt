@@ -1,0 +1,14 @@
+12.0
+12
+1       SQLUNIQUEID         1       16      ""   1     ct_product_holding_id                          ""
+2       SQLINT              0       4       ""   2     site_id                                        ""
+3       SQLINT              0       4       ""   3     member_id                                      ""
+4       SQLNCHAR            2       40      ""   4     account_number                                 Latin1_General_CI_AS
+5       SQLNCHAR            2       80      ""   5     product_snapshot_code                          Latin1_General_CI_AS
+6       SQLNCHAR            2       170     ""   6     insert_by                                      Latin1_General_CI_AS
+7       SQLDATETIME         0       8       ""   7     insert_date                                    ""
+8       SQLNCHAR            2       170     ""   8     update_by                                      Latin1_General_CI_AS
+9       SQLDATETIME         0       8       ""   9     update_date                                    ""
+10      SQLBINARY           2       8       ""   10    onyx_timestamp                                 ""
+11      SQLTINYINT          0       1       ""   11    delete_status                                  ""
+12      SQLNCHAR            2       6       ""   12    relationship_code                              Latin1_General_CI_AS

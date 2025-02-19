@@ -1,0 +1,6 @@
+12.0
+4
+1       SQLDATETIME         0       8       ""   1     start_date                       ""
+2       SQLDATETIME         0       8       ""   2     end_date                         ""
+3       SQLDATETIME         1       8       ""   3     start_date_utc                   ""
+4       SQLDATETIME         1       8       ""   4     end_date_utc                     ""

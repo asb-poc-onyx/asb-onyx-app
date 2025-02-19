@@ -1,0 +1,13 @@
+12.0
+11
+1       SQLNCHAR            2       80      ""   1     treatment_category_code                                                    Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                                                                    ""
+3       SQLNCHAR            2       510     ""   3     description                                                                Latin1_General_CI_AS
+4       SQLNCHAR            2       170     ""   4     insert_by                                                                  Latin1_General_CI_AS
+5       SQLDATETIME         0       8       ""   5     insert_date                                                                ""
+6       SQLNCHAR            2       170     ""   6     update_by                                                                  Latin1_General_CI_AS
+7       SQLDATETIME         0       8       ""   7     update_date                                                                ""
+8       SQLBINARY           2       8       ""   8     onyx_timestamp                                                             ""
+9       SQLBIT              1       1       ""   9     record_status                                                              ""
+10      SQLNCHAR            2       40      ""   10    contact_literature_product_code                                            Latin1_General_CI_AS
+11      SQLINT              1       4       ""   11    contact_literature_fulfillment_type                                        ""

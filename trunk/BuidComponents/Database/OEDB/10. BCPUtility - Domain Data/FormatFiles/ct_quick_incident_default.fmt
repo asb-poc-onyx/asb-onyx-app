@@ -1,0 +1,22 @@
+12.0
+20
+1       SQLINT              0       4       ""   1     primary_id                                     ""
+2       SQLINT              0       4       ""   2     site_id                                        ""
+3       SQLINT              0       4       ""   3     sequence_number                                ""
+4       SQLNCHAR            2       510     ""   4     default_name                                   Latin1_General_CI_AS
+5       SQLINT              0       4       ""   5     incident_category_did                          ""
+6       SQLINT              0       4       ""   6     type_did                                       ""
+7       SQLNCHAR            2       170     ""   7     assigned_to                                    Latin1_General_CI_AS
+8       SQLNCHAR            2       40      ""   8     incident_product_code                          Latin1_General_CI_AS
+9       SQLINT              1       4       ""   9     source_did                                     ""
+10      SQLINT              0       4       ""   10    status_did                                     ""
+11      SQLINT              0       4       ""   11    priority_did                                   ""
+12      SQLINT              0       4       ""   12    resolution_did1                                ""
+13      SQLINT              1       4       ""   13    user_location_did                              ""
+14      SQLINT              0       4       ""   14    enquiry_source_did                             ""
+15      SQLNCHAR            2       170     ""   15    insert_by                                      Latin1_General_CI_AS
+16      SQLDATETIME         0       8       ""   16    insert_date                                    ""
+17      SQLNCHAR            2       170     ""   17    update_by                                      Latin1_General_CI_AS
+18      SQLDATETIME         0       8       ""   18    update_date                                    ""
+19      SQLBINARY           2       8       ""   19    onyx_timestamp                                 ""
+20      SQLBIT              1       1       ""   20    record_status                                  ""

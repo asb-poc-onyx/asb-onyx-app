@@ -1,0 +1,8 @@
+12.0
+6
+1       SQLNCHAR            2       170     ""   1     user_id                        Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                        ""
+3       SQLNCHAR            2       60      ""   3     user_name                      Latin1_General_CI_AS
+4       SQLNCHAR            2       8       ""   4     language_code                  Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     email_alias                    Latin1_General_CI_AS
+6       SQLBIT              1       1       ""   6     record_status                  ""

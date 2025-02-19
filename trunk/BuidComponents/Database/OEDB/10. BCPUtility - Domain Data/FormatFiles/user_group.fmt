@@ -1,0 +1,19 @@
+12.0
+17
+1       SQLNCHAR            2       170     ""   1     group_code                                       Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     site_id                                          ""
+3       SQLNCHAR            2       170     ""   3     parent_user_group_code                           Latin1_General_CI_AS
+4       SQLNCHAR            2       170     ""   4     manager_id                                       Latin1_General_CI_AS
+5       SQLINT              1       4       ""   5     authority_id                                     ""
+6       SQLINT              1       4       ""   6     detail_access                                    ""
+7       SQLNCHAR            2       170     ""   7     escalation_id                                    Latin1_General_CI_AS
+8       SQLNCHAR            2       510     ""   8     email_alias                                      Latin1_General_CI_AS
+9       SQLNCHAR            2       170     ""   9     insert_by                                        Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    insert_date                                      ""
+11      SQLNCHAR            2       170     ""   11    update_by                                        Latin1_General_CI_AS
+12      SQLDATETIME         0       8       ""   12    update_date                                      ""
+13      SQLBINARY           2       8       ""   13    onyx_timestamp                                   ""
+14      SQLBIT              1       1       ""   14    record_status                                    ""
+15      SQLNCHAR            2       510     ""   15    ad_dn                                            Latin1_General_CI_AS
+16      SQLNCHAR            2       510     ""   16    ad_batch_id                                      Latin1_General_CI_AS
+17      SQLNCHAR            2       510     ""   17    ad_id                                            Latin1_General_CI_AS

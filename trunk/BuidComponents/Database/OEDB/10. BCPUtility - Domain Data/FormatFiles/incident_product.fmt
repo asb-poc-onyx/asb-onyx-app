@@ -1,0 +1,18 @@
+12.0
+16
+1       SQLNCHAR            2       40      ""   1     incident_product_code                          Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     incident_category_did                          ""
+3       SQLINT              0       4       ""   3     site_id                                        ""
+4       SQLNCHAR            2       40      ""   4     alternate_id                                   Latin1_General_CI_AS
+5       SQLINT              1       4       ""   5     resolution_group                               ""
+6       SQLINT              1       4       ""   6     status_did                                     ""
+7       SQLNCHAR            2       170     ""   7     insert_by                                      Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     insert_date                                    ""
+9       SQLNCHAR            2       170     ""   9     update_by                                      Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    update_date                                    ""
+11      SQLBINARY           2       8       ""   11    onyx_timestamp                                 ""
+12      SQLBIT              1       1       ""   12    record_status                                  ""
+13      SQLNCHAR            2       80      ""   13    product_snapshot_code                          Latin1_General_CI_AS
+14      SQLINT              1       4       ""   14    product_category_did                           ""
+15      SQLINT              0       4       ""   15    sequence                                       ""
+16      SQLNCHAR            2       800     ""   16    product_info_url                               Latin1_General_CI_AS

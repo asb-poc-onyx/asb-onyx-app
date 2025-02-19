@@ -1,0 +1,8 @@
+12.0
+6
+1       SQLNCHAR            2       40      ""   1     incident_product_code                          Latin1_General_CI_AS
+2       SQLINT              0       4       ""   2     incident_category_did                          ""
+3       SQLINT              0       4       ""   3     site_id                                        ""
+4       SQLNCHAR            2       8       ""   4     language_code                                  Latin1_General_CI_AS
+5       SQLNCHAR            2       510     ""   5     incident_product_desc                          Latin1_General_CI_AS
+6       SQLBINARY           2       8       ""   6     onyx_timestamp                                 ""

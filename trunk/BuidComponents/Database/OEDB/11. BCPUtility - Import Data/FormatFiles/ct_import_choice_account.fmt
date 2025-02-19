@@ -1,0 +1,10 @@
+12.0
+8
+1       SQLINT              0       4       ""   1     MemberNo                           ""
+2       SQLNCHAR            2       100     ""   2     LoanAccountID                      Latin1_General_CI_AS
+3       SQLNCHAR            2       160     ""   3     LenderName                         Latin1_General_CI_AS
+4       SQLDECIMAL          1       19      ""   4     OriginalBalance                    ""
+5       SQLDECIMAL          1       19      ""   5     CurrentBalance                     ""
+6       SQLDATETIME         0       8       ""   6     EffectiveDate                      ""
+7       SQLCHAR             2       8       ""   7     Status                             Latin1_General_CI_AS
+8       SQLCHAR             2       61      ""   8     HLA                                Latin1_General_CI_AS

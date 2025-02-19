@@ -1,0 +1,13 @@
+12.0
+11
+1       SQLINT              0       4       ""   1     EntityGroupMapperId                        ""
+2       SQLINT              0       4       ""   2     SiteId                                     ""
+3       SQLINT              0       4       ""   3     GroupId                                    ""
+4       SQLINT              0       4       ""   4     EntityId                                   ""
+5       SQLINT              0       4       ""   5     SequenceIndex                              ""
+6       SQLINT              0       4       ""   6     RowNumber                                  ""
+7       SQLNCHAR            2       170     ""   7     UpdateBy                                   Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     UpdateDate                                 ""
+9       SQLNCHAR            2       170     ""   9     InsertBy                                   Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    InsertDate                                 ""
+11      SQLBIT              1       1       ""   11    RecordStatus                               ""

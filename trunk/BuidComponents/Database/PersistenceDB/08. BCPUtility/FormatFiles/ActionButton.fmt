@@ -1,0 +1,15 @@
+12.0
+13
+1       SQLINT              0       4       ""   1     ActionButtonId                   ""
+2       SQLINT              0       4       ""   2     SiteId                           ""
+3       SQLINT              0       4       ""   3     ProfileId                        ""
+4       SQLINT              0       4       ""   4     EntityId                         ""
+5       SQLINT              0       4       ""   5     GroupId                          ""
+6       SQLINT              0       4       ""   6     SequenceIndex                    ""
+7       SQLNCHAR            2       510     ""   7     Icon                             Latin1_General_CI_AS
+8       SQLNCHAR            2       170     ""   8     ResourceName                     Latin1_General_CI_AS
+9       SQLNCHAR            2       170     ""   9     UpdateBy                         Latin1_General_CI_AS
+10      SQLDATETIME         0       8       ""   10    UpdateDate                       ""
+11      SQLNCHAR            2       170     ""   11    InsertBy                         Latin1_General_CI_AS
+12      SQLDATETIME         0       8       ""   12    InsertDate                       ""
+13      SQLBIT              1       1       ""   13    RecordStatus                     ""

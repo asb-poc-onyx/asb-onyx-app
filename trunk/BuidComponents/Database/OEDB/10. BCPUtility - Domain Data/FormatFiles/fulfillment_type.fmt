@@ -1,0 +1,13 @@
+12.0
+11
+1       SQLTINYINT          0       1       ""   1     fulfillment_type_code                            ""
+2       SQLINT              0       4       ""   2     site_id                                          ""
+3       SQLNCHAR            2       510     ""   3     technical_notes                                  Latin1_General_CI_AS
+4       SQLINT              0       4       ""   4     fulfillment_engine_did                           ""
+5       SQLNCHAR            2       170     ""   5     insert_by                                        Latin1_General_CI_AS
+6       SQLDATETIME         0       8       ""   6     insert_date                                      ""
+7       SQLNCHAR            2       170     ""   7     update_by                                        Latin1_General_CI_AS
+8       SQLDATETIME         0       8       ""   8     update_date                                      ""
+9       SQLBINARY           2       8       ""   9     onyx_timestamp                                   ""
+10      SQLBIT              1       1       ""   10    record_status                                    ""
+11      SQLNCHAR            2       40      ""   11    engine_format                                    Latin1_General_CI_AS

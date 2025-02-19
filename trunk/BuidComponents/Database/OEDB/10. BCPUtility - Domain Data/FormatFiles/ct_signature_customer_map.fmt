@@ -1,0 +1,20 @@
+12.0
+18
+1       SQLINT              0       4       ""   1     primary_id                                                       ""
+2       SQLINT              0       4       ""   2     site_id                                                          ""
+3       SQLINT              0       4       ""   3     object_type_enum                                                 ""
+4       SQLINT              1       4       ""   4     type_did                                                         ""
+5       SQLINT              1       4       ""   5     sub_type_did                                                     ""
+6       SQLINT              1       4       ""   6     status_did                                                       ""
+7       SQLINT              1       4       ""   7     relationship_type_did                                            ""
+8       SQLNCHAR            2       6       ""   8     sig_customer_code                                                Latin1_General_CI_AS
+9       SQLNCHAR            2       4       ""   9     sig_account_code                                                 Latin1_General_CI_AS
+10      SQLNCHAR            2       170     ""   10    insert_by                                                        Latin1_General_CI_AS
+11      SQLDATETIME         0       8       ""   11    insert_date                                                      ""
+12      SQLNCHAR            2       170     ""   12    update_by                                                        Latin1_General_CI_AS
+13      SQLDATETIME         0       8       ""   13    update_date                                                      ""
+14      SQLBINARY           2       8       ""   14    onyx_timestamp                                                   ""
+15      SQLBIT              1       1       ""   15    record_status                                                    ""
+16      SQLBIT              1       1       ""   16    is_obsolete                                                      ""
+17      SQLBIT              1       1       ""   17    is_create_account                                                ""
+18      SQLBIT              1       1       ""   18    is_create_account_relationship                                   ""

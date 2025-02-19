@@ -1,0 +1,29 @@
+12.0
+27
+1       SQLINT              0       4       ""   1     primary_did                                                        ""
+2       SQLINT              0       4       ""   2     site_id                                                            ""
+3       SQLINT              0       4       ""   3     owner_did                                                          ""
+4       SQLINT              0       4       ""   4     sequence                                                           ""
+5       SQLNCHAR            2       170     ""   5     resource_id_read                                                   Latin1_General_CI_AS
+6       SQLNCHAR            2       170     ""   6     resource_id_write                                                  Latin1_General_CI_AS
+7       SQLINT              1       4       ""   7     process_status_did                                                 ""
+8       SQLNCHAR            2       170     ""   8     process_assigned_to                                                Latin1_General_CI_AS
+9       SQLNCHAR            2       170     ""   9     default_assigned_to                                                Latin1_General_CI_AS
+10      SQLINT              0       4       ""   10    form_did                                                           ""
+11      SQLINT              0       4       ""   11    type_did                                                           ""
+12      SQLBIT              1       1       ""   12    is_action                                                          ""
+13      SQLNCHAR            2       510     ""   13    action_image_url                                                   Latin1_General_CI_AS
+14      SQLBIT              1       1       ""   14    disable_prev                                                       ""
+15      SQLBIT              1       1       ""   15    disable_next                                                       ""
+16      SQLNCHAR            2       170     ""   16    insert_by                                                          Latin1_General_CI_AS
+17      SQLDATETIME         0       8       ""   17    insert_date                                                        ""
+18      SQLNCHAR            2       170     ""   18    update_by                                                          Latin1_General_CI_AS
+19      SQLDATETIME         0       8       ""   19    update_date                                                        ""
+20      SQLBINARY           2       8       ""   20    onyx_timestamp                                                     ""
+21      SQLBIT              1       1       ""   21    record_status                                                      ""
+22      SQLNCHAR            2       510     ""   22    default_assigned_to_variable                                       Latin1_General_CI_AS
+23      SQLNCHAR            2       510     ""   23    reminder_date_variable                                             Latin1_General_CI_AS
+24      SQLBIT              1       1       ""   24    disable_save                                                       ""
+25      SQLBIT              1       1       ""   25    disable_save_close                                                 ""
+26      SQLBIT              1       1       ""   26    close_closes_process                                               ""
+27      SQLBIT              1       1       ""   27    change_process_status_last_step                                    ""
